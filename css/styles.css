@@ -1,0 +1,56 @@
+.nav{
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 30%;
+  height: 100%;
+  text-align: center;
+  line-height: 7;
+  background-color: #ffccff;
+  padding-top: 20px;
+}
+.head{
+  position: fixed;
+  padding: 5px 200px;
+  left: 0;
+  top: 0;
+  right: 0;
+  margin-right: 30%;
+  text-align: center;
+  background-color: #ffccff;
+  color: white;
+  font-size: 1.2rem;
+}
+.content{
+  margin: 18% 30% 0 0;
+  text-align: center;
+  font-size: 1.2rem;
+}
+.content1{
+  margin: 15% 30% 0 0;
+  text-align: center;
+  font-size: 1.2rem;
+}
+.content2{
+  margin: 15% 30% 0 0;
+  text-align: center;
+  font-size: 1.2rem;
+}
+img{
+  width: 175px;
+}
+a{
+  color: white;
+}
+a:hover{
+  color: silver;
+}
+a{
+  font-size: 1.2rem;
+}
+body{
+  text-align: center;
+}
+table{
+  margin: 0 auto;
+}
